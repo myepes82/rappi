@@ -1,0 +1,9 @@
+# ninja log v5
+0	34	1653488251132833740	CMakeFiles/rappi.dir/domain/City.cpp.o	776c9334baf4d4db
+2	423	1653498046456021537	CMakeFiles/rappi.dir/domain/Route.cpp.o	f22c891241217d03
+1	414	1653498046446492306	CMakeFiles/rappi.dir/domain/User.cpp.o	8504c82517267240
+1	227	1653499320566411119	CMakeFiles/rappi.dir/services/impl/UserServiceImpl.cpp.o	e7812d5c01ce280
+1	281	1653499116986099950	CMakeFiles/rappi.dir/main.cpp.o	c21490cacf9322e5
+227	260	1653499320600250589	rappi	b4209a5a2154ebb0
+2	411	1653498046442244491	CMakeFiles/rappi.dir/repository/UserRepository.cpp.o	a0407b142986e55b
+2	339	1653499117043565384	CMakeFiles/rappi.dir/repository/database/Database.cpp.o	fd9a6709cd2b3de0

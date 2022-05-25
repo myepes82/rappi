@@ -1,0 +1,3 @@
+/Users/marlon/Desktop/rappi/cmake-build-debug/CMakeFiles/rappi.dir
+/Users/marlon/Desktop/rappi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marlon/Desktop/rappi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
